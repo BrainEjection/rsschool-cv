@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/BrainEjection/rsschool-cv/blob/gh-pages/CV.MD
