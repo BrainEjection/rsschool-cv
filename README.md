@@ -1,1 +1,1 @@
-https://github.com/BrainEjection/rsschool-cv/blob/gh-pages/cv.md
+https://BrainEjection.github.io/rsschool-cv/
