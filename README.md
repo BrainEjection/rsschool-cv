@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BrainEjection.github.io/rsschool-cv/
